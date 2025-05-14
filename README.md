@@ -1,6 +1,6 @@
-# PNG to HDF5 Converter with TITAN Model
+# PNG to H5(HDF5) Converter and Tesing with TITAN Model
 
-This repository provides tools to convert `.png` image files into `.h5` (HDF5) format so that they can be processed by large language models (LLMs) or deep learning pipelines.
+This repository provides tools to convert `.png` image files into `.h5` (HDF5) format so that they can be processed by large language models (TITAN Model).
 
 ## 🔧 Features
 
